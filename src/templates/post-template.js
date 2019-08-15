@@ -14,7 +14,7 @@ const postTemplate = ({ data }) => {
     <Layout>
       <section className={styles.template}>
         <Link to="/" className={styles.link}>
-          Voltar Aos Posts
+          Voltar Aos Post
         </Link>
 
         <div className={styles.info}>
