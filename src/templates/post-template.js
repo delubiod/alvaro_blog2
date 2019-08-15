@@ -13,7 +13,7 @@ const postTemplate = ({ data }) => {
   return (
     <Layout>
       <section className={styles.template}>
-        <Link to="/" className={styles.link}>
+        <Link to="http://www.delvero.tk" className={styles.link}>
           Voltar Aos Posts
         </Link>
         <div className={styles.info}>
