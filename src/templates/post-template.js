@@ -29,13 +29,6 @@ const postTemplate = ({ data }) => {
         </div>
       </section>
     </Layout>
-    <Layout>
-      
-        <Link to="http://www.centromedicomarista.com" className={styles.link}>Voltar A Pagina Principal
-        </Link>
-        
-      
-    </Layout>
   )
 }
 
