@@ -16,6 +16,9 @@ const postTemplate = ({ data }) => {
         <Link to="/" className={styles.link}>
           Voltar Aos Post
         </Link>
+        <Link to="http://www.centromedicomarista.com" className={styles.link}>
+          Voltar ao Site
+        </Link>
 
         <div className={styles.info}>
           <h1>{title}</h1>
