@@ -30,11 +30,11 @@ const postTemplate = ({ data }) => {
       </section>
     </Layout>
     <Layout>
-      <section className={styles.template}>
+      
         <Link to="http://www.centromedicomarista.com" className={styles.link}>Voltar A Pagina Principal
         </Link>
         
-      </section>
+      
     </Layout>
   )
 }
