@@ -8,7 +8,7 @@ const PostList = ({ posts }) => {
       <div>
         <a
           className={styles.link}
-          href="http://www.centromedicomarista.com"
+          href="http://www.centromedicomarista.com/#Especialistas"
           rel="noopener noreferrer"
         >
           Voltar Ao Site Do Centro Médico Marista
