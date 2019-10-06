@@ -15,7 +15,7 @@ const PostList = ({ posts }) => {
         </a>
       </div>
 
-      <h1>Alvaro De Paula</h1>
+      <h1>Alvaro Luis Ribeiro De Paula</h1>
       <h4>Blog</h4>
       <div className={styles.center}>
         {posts.map(({ node }, index) => {
